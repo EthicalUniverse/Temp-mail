@@ -3,6 +3,7 @@
   <img src="https://github.com/EthicalUniverse/Temp-mail/blob/main/node_modules/Image/IMG_20240211_163539.jpg" width="400" height="300" />
   <img src="https://github.com/EthicalUniverse/Temp-mail/blob/main/node_modules/Image/IMG_20240211_163403.jpg" width="400" height="300" /> 
 </p>
+
 ## How to install
 Open the terminal and type following commands.
 
