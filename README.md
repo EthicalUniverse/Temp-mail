@@ -2,7 +2,7 @@
 ## screenshot
 ## How to install
 Open the terminal and type following commands.
-
+* `apt update`
 *`apt update && apt upgrade`
 
 
