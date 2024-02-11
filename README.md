@@ -2,16 +2,17 @@
 ## screenshot
 ## How to install
 Open the terminal and type following commands.
-•`apt update && apt upgrade`
+
+*`apt update && apt upgrade`
 
 
-•`git clone https://github.com/EthicalUniverse/Temp-mail.git`
+*`git clone https://github.com/EthicalUniverse/Temp-mail.git`
 
-•`cd Temp-mail`
+*`cd Temp-mail`
 
-•`chmod +x *`
+*`chmod +x *`
 
-•`node temp.js username`
+*`node temp.js username`
 
 ## Tutorial :
 <p>
