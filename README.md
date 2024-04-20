@@ -9,6 +9,8 @@ Open the terminal and type following commands.
 
 * `apt update && apt upgrade`
 
+* `pkg install nodejs`
+
 
 * `git clone https://github.com/EthicalUniverse/Temp-mail.git`
 
